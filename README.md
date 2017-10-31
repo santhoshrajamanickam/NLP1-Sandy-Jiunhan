@@ -1,1 +1,1 @@
-# NLP1-Sandy-Jiunhan
+Repo contains the the Lab assignments of Jiunhan and Santhosh
